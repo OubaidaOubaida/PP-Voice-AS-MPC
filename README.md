@@ -13,6 +13,7 @@ For any query regarding this repository, please contact:
 
 - Oubaïda Chouchane: chouchan[at]eurecom[dot]fr
 - Massimiliano Todisco: todisco[at]eurecom[dot]fr
+- Melek Önen: melek(dot)onen(at)eurecom(dot)fr
 
 
 ### Citation
